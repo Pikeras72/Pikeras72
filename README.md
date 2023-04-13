@@ -1,4 +1,11 @@
-### Hi there 👋
+| <a href="https://github.com/Pikeras72/Pikeras72"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=pikeras72&theme=buefy&hide_border=true&count_private=true&show_icons=true&hide=stars&include_all_commits=true" alt="Diego Ruiz Piqueras's github stats" /></a> | <a href="https://github.com/Pikeras72/Pikeras72"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikeras72&layout=compact&langs_count=8&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+### Now working on:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=pikeras72&repo=core_fridge&show_owner=true&theme=buefy&show_icons=true)](https://github.com/Pikeras72/Core_Fridge)
+
+
 
 <!--
 **Pikeras72/Pikeras72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
