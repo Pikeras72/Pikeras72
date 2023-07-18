@@ -1,5 +1,5 @@
-| <a href="https://github.com/Pikeras72/Pikeras72"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=pikeras72&theme=buefy&hide_border=true&count_private=true&show_icons=true&hide=stars&include_all_commits=true" alt="Diego Ruiz Piqueras's github stats" /></a> | <a href="https://github.com/Pikeras72/Pikeras72"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikeras72&layout=compact&langs_count=8&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+|<a href="https://github.com/Pikeras72/Pikeras72"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikeras72&layout=compact&langs_count=8&theme=buefy&hide_border=true" /></a> |
+| ------------- |
 
 ### Now working on:
 
@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!-- To add in a near future -->
+<!-- <a href="https://github.com/Pikeras72/Pikeras72"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=pikeras72&theme=buefy&hide_border=true&count_private=true&show_icons=true&hide=stars&include_all_commits=true" alt="Diego Ruiz Piqueras's github stats" /></a> -->
