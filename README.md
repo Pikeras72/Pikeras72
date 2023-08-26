@@ -3,7 +3,7 @@
 
 ### Now working on:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=pikeras72&repo=core_fridge&show_owner=true&theme=buefy&show_icons=true)](https://github.com/Pikeras72/Core_Fridge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=pikeras72&repo=Rocket_League_AI_Item_Predictor&show_owner=true&theme=buefy&show_icons=true)](https://github.com/Pikeras72/Rocket_League_AI_Item_Predictor)
 
 
 
