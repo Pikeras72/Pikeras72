@@ -1,8 +1,7 @@
 ### Now working on:
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=pikeras72&repo=LegofyNet&show_owner=true&theme=buefy&show_icons=true)](https://github.com/Pikeras72/LegofyNet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=pikeras72&repo=Hardstyle-Songs-AI-Generator&show_owner=true&theme=buefy&show_icons=true)](https://github.com/Pikeras72/Hardstyle-Songs-AI-Generator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=pikeras72&repo=Rocket_League_AI_Item_Predictor&show_owner=true&theme=buefy&show_icons=true)](https://github.com/Pikeras72/Rocket_League_AI_Item_Predictor)
-
 
 <!--
 **Pikeras72/Pikeras72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
