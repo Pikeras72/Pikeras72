@@ -1,7 +1,10 @@
-### Now working on:
+### Current Stats:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=pikeras72&repo=LegofyNet&show_owner=true&theme=buefy&show_icons=true)](https://github.com/Pikeras72/LegofyNet)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=pikeras72&repo=Hardstyle-Songs-AI-Generator&show_owner=true&theme=buefy&show_icons=true)](https://github.com/Pikeras72/Hardstyle-Songs-AI-Generator)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pikeras72\&layout=donut\&border_color=2e4058)
+
+### Now working on:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pikeras72\&border_color=2e4058&repo=LegofyNet)](https://github.com/Pikeras72/LegofyNet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pikeras72\&border_color=2e4058&repo=Hardstyle-Songs-AI-Generator)](https://github.com/Pikeras72/Hardstyle-Songs-AI-Generator)
 
 <!--
 **Pikeras72/Pikeras72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
