@@ -5,12 +5,6 @@
   </picture>
 </a>
 
-<p align="center">
-  <a href="https://pikeras72.github.io"><b>pikeras72.github.io</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/diego-ruiz-piqueras-ingeniero-de-software/">LinkedIn</a>
-</p>
-
 <br>
 
 <picture>
