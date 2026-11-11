@@ -11,7 +11,7 @@
 <rect x="6" y="6" width="938" height="324" rx="26" fill="#15141c" stroke="#f1ebdd" stroke-width="2.5"/>
 <rect x="6" y="6" width="938" height="324" rx="26" fill="url(#puntos)"/>
 <text x="54" y="60" transform="rotate(-2 52 60)" font-family="caveat" font-size="29" fill="#ff6b4b">my GitHub, in numbers</text>
-<text x="900" y="57" text-anchor="end" font-family="mono" font-size="12.5" fill="#a8a2b5">updated 10 Nov 2026 · refreshes by itself</text>
+<text x="900" y="57" text-anchor="end" font-family="mono" font-size="12.5" fill="#a8a2b5">updated 11 Nov 2026 · refreshes by itself</text>
 <g class="ficha" style="animation-delay:0.10s"><rect x="56.0" y="86" width="196.5" height="108" rx="16" fill="#000000"/><rect x="52.0" y="82" width="196.5" height="108" rx="16" fill="#1e1d28" stroke="#f1ebdd" stroke-width="2"/><text x="72.0" y="132" font-family="fraunces-numero" font-size="40" fill="#f1ebdd">136</text><text x="72.0" y="158" font-family="bricolage-normal" font-size="14.5" fill="#a8a2b5"><tspan x="72.0" dy="0">contributions in the</tspan><tspan x="72.0" dy="18">last year</tspan></text></g>
 <g class="ficha" style="animation-delay:0.22s"><rect x="270.5" y="86" width="196.5" height="108" rx="16" fill="#000000"/><rect x="266.5" y="82" width="196.5" height="108" rx="16" fill="#1e1d28" stroke="#f1ebdd" stroke-width="2"/><text x="286.5" y="132" font-family="fraunces-numero" font-size="40" fill="#f1ebdd">9</text><text x="286.5" y="158" font-family="bricolage-normal" font-size="14.5" fill="#a8a2b5"><tspan x="286.5" dy="0">public projects</tspan></text></g>
 <g class="ficha" style="animation-delay:0.34s"><rect x="485.0" y="86" width="196.5" height="108" rx="16" fill="#000000"/><rect x="481.0" y="82" width="196.5" height="108" rx="16" fill="#1e1d28" stroke="#f1ebdd" stroke-width="2"/><text x="501.0" y="132" font-family="fraunces-numero" font-size="40" fill="#f1ebdd">7</text><text x="501.0" y="158" font-family="bricolage-normal" font-size="14.5" fill="#a8a2b5"><tspan x="501.0" dy="0">programming</tspan><tspan x="501.0" dy="18">languages</tspan></text></g>
@@ -32,7 +32,7 @@
 <circle cx="193" cy="304" r="5" fill="#c792ea"/><text x="204" y="308" font-family="mono" font-size="12.5" fill="#f1ebdd">Dart <tspan fill="#a8a2b5">9%</tspan></text>
 <circle cx="329" cy="304" r="5" fill="#a8a2b5"/><text x="340" y="308" font-family="mono" font-size="12.5" fill="#f1ebdd">Other <tspan fill="#a8a2b5">10%</tspan></text>
 <text x="520" y="228" font-family="mono" font-size="12" letter-spacing="1.5" fill="#a8a2b5">LATELY</text>
-<text x="520" y="254" font-family="bricolage" font-size="15" fill="#f1ebdd"><tspan fill="#ff6b4b">✦ </tspan>pikeras72.github.io</text><text x="900" y="254" text-anchor="end" font-family="mono" font-size="12.5" fill="#a8a2b5">2 days ago</text>
+<text x="520" y="254" font-family="bricolage" font-size="15" fill="#f1ebdd"><tspan fill="#ff6b4b">✦ </tspan>pikeras72.github.io</text><text x="900" y="254" text-anchor="end" font-family="mono" font-size="12.5" fill="#a8a2b5">3 days ago</text>
 <text x="520" y="282" font-family="bricolage" font-size="15" fill="#f1ebdd"><tspan fill="#ff6b4b">✦ </tspan>LegofyNet</text><text x="900" y="282" text-anchor="end" font-family="mono" font-size="12.5" fill="#a8a2b5">5 months ago</text>
 <text x="520" y="310" font-family="bricolage" font-size="15" fill="#f1ebdd"><tspan fill="#ff6b4b">✦ </tspan>Emporium_Bot</text><text x="900" y="310" text-anchor="end" font-family="mono" font-size="12.5" fill="#a8a2b5">7 months ago</text>
 </svg>
